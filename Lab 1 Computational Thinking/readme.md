@@ -10,3 +10,6 @@
 2. Use the train.csv (see attached) as our main Titanic dataset
 3. Use the attached guides and sample output for your reference.
 - For the sample output, you can make a copy of the notebook by going to File > Save a Copy in Drive
+
+### About this activity
+- We analyzed data from the Titanic dataset, where we load the daya, explored, and even cleaned the data using python and the pandas library.
